@@ -62,4 +62,14 @@
 #### 1.确保JDK1.8
 ![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/jdk.png)
 )
-#### 2.
+#### 2.确保Maven settings配置
+![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/maven.png)
+* maven 私服地址：http://58.67.161.51:38081/nexus/content/groups/public
+#### 3.配置本地hosts
+```
+192.168.4.250 etrans.config.com
+```
+* 注:etrans.config.com为配置中心
+
+### 4.最后启动应用
+![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/maven.png)

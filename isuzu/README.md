@@ -2,7 +2,7 @@
 
 ## Overview
 
-# 项目结构分基础架构、业务项目
+## 项目结构分基础架构、业务项目
 ### 基础架构及组件
 ```
 ├── micro-framework-parent - 基础架构顶级工程
@@ -58,8 +58,8 @@
 │   └── localtion-model-实体模块
 │   └── localtion-service-提供接口服务模块
 ```
-## 项目环境搭建
-### 1.确保JDK1.8
-![Alt text](/images/jdk.png)
+### 项目环境搭建
+#### 1.确保JDK1.8
+![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/jdk.png)
 )
-### 2.
+#### 2.

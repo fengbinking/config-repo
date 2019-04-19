@@ -71,5 +71,6 @@
 ```
 * 注:etrans.config.com为配置中心
 
-### 4.最后启动应用
-![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/maven.png)
+#### 4.最后启动应用
+![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/run1.png)
+![](https://raw.githubusercontent.com/fengbinking/config-repo/master/isuzu/images/run2.png)

@@ -2,8 +2,8 @@
 
 ## Overview
 
-### 项目结构分基础架构、业务项目
-## 基础架构及组件
+# 项目结构分基础架构、业务项目
+### 基础架构及组件
 ```
 ├── micro-framework-parent - 基础架构顶级工程
 │   └── micro-common-utils - 公用工具模块
@@ -18,7 +18,7 @@
 │   └── micro-web-framework - web项目分布、数据库连接模块
 │
 ```
-## 业务项目结构
+### 业务项目结构
 ```
 ├── isuzu-gateway-网关项目
 │   └── isuzu-upms-sdk-权限模块
@@ -58,3 +58,8 @@
 │   └── localtion-model-实体模块
 │   └── localtion-service-提供接口服务模块
 ```
+## 项目环境搭建
+### 1.确保JDK1.8
+![Alt text](/images/jdk.png)
+)
+### 2.

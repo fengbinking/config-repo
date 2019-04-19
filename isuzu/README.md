@@ -2,7 +2,23 @@
 
 ## Overview
 
-### 项目结构
+### 项目结构分基础架构、业务项目
+## 基础架构及组件
+```
+├── micro-framework-parent - 基础架构顶级工程
+│   └── micro-common-utils - 公用工具模块
+│   └── micro-exception - 异常处理模块
+│   └── micro-filesystem - 文件上传模块(oss)
+│   └── micro-message-push - 极光消息推送模块
+│   └── micro-mongodb - mongodb非关系数据库连接模块
+│   └── micro-oauth2 - oauth2权限认证模块
+│   └── micro-rediscache - redis连接及api封装模块
+│   └── micro-sms - 短信发送模块
+│   └── micro-verify-realname - 身份证、行驶证实名认证模块
+│   └── micro-web-framework - web项目分布、数据库连接模块
+│
+```
+## 业务项目结构
 ```
 ├── isuzu-gateway-网关项目
 │   └── isuzu-upms-sdk-权限模块
